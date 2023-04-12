@@ -1,16 +1,2 @@
-# untitled
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Quran_Al_Kareem-App
+Quran reading app is an all-in-one solution for Quranic study and mosque-finding needs. With its user-friendly interface, accurate display of Quranic text, and comprehensive mosque finder feature, it is the perfect app for Muslims who want to stay connected to their faith and community.
