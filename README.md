@@ -12,3 +12,7 @@ Quran reading app is an all-in-one solution for Quranic study and mosque-finding
 
 ![22](https://user-images.githubusercontent.com/96326069/231348594-ea49f8ba-eba1-4173-ab26-9e334edf6226.png)
  
+ 
+ * Our app makes it simple to locate the Qiblah direction no matter where you are in the world. Just open the app and let it guide you towards Mecca for your daily prayers.
+ 
+![Untitled design](https://user-images.githubusercontent.com/96326069/232263558-0a204957-c952-43a6-a6cf-1cb487b601bb.png)
