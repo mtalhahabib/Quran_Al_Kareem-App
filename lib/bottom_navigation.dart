@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:untitled/qiblah/qiblah.dart';
 
 import 'Quran/surah.dart';
-import 'recitation/tilawat.dart';
+import 'qiblah/qiblah_main.dart';
 import 'mosque_map.dart';
 
 class BottomNavigation extends StatefulWidget {
@@ -17,7 +17,7 @@ class _BottomNavigation extends State<BottomNavigation> {
   int _selectedIndex = 0;
   static const List<Widget> _pages = <Widget>[
     SurahPage(),
-    Tilaawat(),
+    Qiblah(),
     MapPage(),
 
   ];

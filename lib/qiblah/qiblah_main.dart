@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:untitled/qiblah/qiblah.dart';
 
-class Tilaawat extends StatelessWidget {
-  const Tilaawat({Key? key}) : super(key: key);
+class Qiblah extends StatelessWidget {
+  const Qiblah({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-     return MyApp_();
+     return MyQiblah();
     // Scaffold(
     //   appBar: AppBar(
     //     elevation: 0,

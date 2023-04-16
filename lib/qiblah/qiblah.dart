@@ -5,12 +5,12 @@ import 'compass.dart';
 import 'loading.dart';
 
 
-class MyApp_ extends StatefulWidget {
+class MyQiblah extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
 
-class _MyAppState extends State<MyApp_> {
+class _MyAppState extends State<MyQiblah> {
   final _deviceSupport = FlutterQiblah.androidDeviceSensorSupport();
 
   @override
