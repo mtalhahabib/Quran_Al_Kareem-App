@@ -1,5 +1,6 @@
 
 import 'package:flutter/material.dart';
+import 'package:untitled/qiblah/qiblah.dart';
 
 import 'Quran/surah.dart';
 import 'recitation/tilawat.dart';
@@ -18,6 +19,7 @@ class _BottomNavigation extends State<BottomNavigation> {
     SurahPage(),
     Tilaawat(),
     MapPage(),
+
   ];
 
 
@@ -49,8 +51,8 @@ class _BottomNavigation extends State<BottomNavigation> {
           ),
 
           BottomNavigationBarItem(
-            icon: Icon(Icons.mic),
-            label: 'Tilaawat',
+            icon: Icon(Icons.gps_fixed_sharp),
+            label: 'Qiblah',
 
           ),
 
@@ -59,6 +61,8 @@ class _BottomNavigation extends State<BottomNavigation> {
             label: 'Near Me',
 
           ),
+
+
 
         ],
 

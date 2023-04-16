@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:untitled/qiblah/qiblah.dart';
 import 'Quran/ayaat.dart';
 import 'Quran/surah.dart';
 import 'recitation/tilawat.dart';
